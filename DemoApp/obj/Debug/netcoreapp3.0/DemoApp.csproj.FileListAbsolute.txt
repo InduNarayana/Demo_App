@@ -1,0 +1,100 @@
+C:\Users\MA0269\source\repos\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\MA0269\source\repos\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\MA0269\source\repos\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\MA0269\source\repos\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.exe
+C:\Users\MA0269\source\repos\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.deps.json
+C:\Users\MA0269\source\repos\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.runtimeconfig.json
+C:\Users\MA0269\source\repos\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.runtimeconfig.dev.json
+C:\Users\MA0269\source\repos\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.dll
+C:\Users\MA0269\source\repos\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.pdb
+C:\Users\MA0269\source\repos\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.csprojAssemblyReference.cache
+C:\Users\MA0269\source\repos\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\staticwebassets\DemoApp.StaticWebAssets.Manifest.cache
+C:\Users\MA0269\source\repos\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\staticwebassets\DemoApp.StaticWebAssets.xml
+C:\Users\MA0269\source\repos\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.AssemblyInfoInputs.cache
+C:\Users\MA0269\source\repos\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.AssemblyInfo.cs
+C:\Users\MA0269\source\repos\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.RazorTargetAssemblyInfo.cache
+C:\Users\MA0269\source\repos\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.dll
+C:\Users\MA0269\source\repos\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.pdb
+C:\Users\MA0269\source\repos\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\MA0269\source\repos\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.csproj.CopyComplete
+C:\Users\MA0269\source\repos\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\System.Net.Http.Formatting.dll
+C:\Users\MA0269\source\repos\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\MA0269\source\repos\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\srujan\Downloads\DemoApp (1)\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\srujan\Downloads\DemoApp (1)\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\srujan\Downloads\DemoApp (1)\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\srujan\Downloads\DemoApp (1)\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.exe
+C:\Users\srujan\Downloads\DemoApp (1)\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.deps.json
+C:\Users\srujan\Downloads\DemoApp (1)\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.runtimeconfig.json
+C:\Users\srujan\Downloads\DemoApp (1)\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.runtimeconfig.dev.json
+C:\Users\srujan\Downloads\DemoApp (1)\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.dll
+C:\Users\srujan\Downloads\DemoApp (1)\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.pdb
+C:\Users\srujan\Downloads\DemoApp (1)\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\System.Net.Http.Formatting.dll
+C:\Users\srujan\Downloads\DemoApp (1)\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\srujan\Downloads\DemoApp (1)\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\srujan\Downloads\DemoApp (1)\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.AssemblyInfoInputs.cache
+C:\Users\srujan\Downloads\DemoApp (1)\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.AssemblyInfo.cs
+C:\Users\srujan\Downloads\DemoApp (1)\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.RazorTargetAssemblyInfo.cache
+C:\Users\srujan\Downloads\DemoApp (1)\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.csproj.CopyComplete
+C:\Users\srujan\Downloads\DemoApp (1)\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\staticwebassets\DemoApp.StaticWebAssets.Manifest.cache
+C:\Users\srujan\Downloads\DemoApp (1)\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\staticwebassets\DemoApp.StaticWebAssets.xml
+C:\Users\srujan\Downloads\DemoApp (1)\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.dll
+C:\Users\srujan\Downloads\DemoApp (1)\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.pdb
+C:\Users\srujan\Downloads\DemoApp (1)\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.genruntimeconfig.cache
+C:\Users\srujan\Downloads\DemoApp (1)\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\AutoMapper.dll
+C:\Users\srujan\Downloads\DemoApp (1)\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.csprojAssemblyReference.cache
+C:\Users\srujan\Downloads\DemoApp (1)\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.csproj.CoreCompileInputs.cache
+C:\Users\srujan\Downloads\DemoApp (1)\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\srujan\Downloads\DemoApp (1)\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Workarea\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Workarea\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Workarea\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Workarea\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.exe
+C:\Workarea\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.deps.json
+C:\Workarea\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.runtimeconfig.json
+C:\Workarea\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.runtimeconfig.dev.json
+C:\Workarea\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.dll
+C:\Workarea\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.pdb
+C:\Workarea\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\AutoMapper.dll
+C:\Workarea\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Workarea\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\System.Net.Http.Formatting.dll
+C:\Workarea\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Workarea\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Workarea\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.csprojAssemblyReference.cache
+C:\Workarea\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.AssemblyInfoInputs.cache
+C:\Workarea\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.AssemblyInfo.cs
+C:\Workarea\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.csproj.CoreCompileInputs.cache
+C:\Workarea\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Workarea\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.RazorTargetAssemblyInfo.cache
+C:\Workarea\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.csproj.CopyComplete
+C:\Workarea\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\staticwebassets\DemoApp.StaticWebAssets.Manifest.cache
+C:\Workarea\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\staticwebassets\DemoApp.StaticWebAssets.xml
+C:\Workarea\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.dll
+C:\Workarea\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.pdb
+C:\Workarea\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.genruntimeconfig.cache
+C:\Projects\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Projects\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Projects\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Projects\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.exe
+C:\Projects\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.deps.json
+C:\Projects\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.runtimeconfig.json
+C:\Projects\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.runtimeconfig.dev.json
+C:\Projects\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.dll
+C:\Projects\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.pdb
+C:\Projects\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\AutoMapper.dll
+C:\Projects\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Projects\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\System.Net.Http.Formatting.dll
+C:\Projects\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Projects\DemoApp\DemoApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Projects\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.csprojAssemblyReference.cache
+C:\Projects\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.AssemblyInfoInputs.cache
+C:\Projects\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.AssemblyInfo.cs
+C:\Projects\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.csproj.CoreCompileInputs.cache
+C:\Projects\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.RazorTargetAssemblyInfo.cache
+C:\Projects\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.csproj.CopyComplete
+C:\Projects\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\staticwebassets\DemoApp.StaticWebAssets.Manifest.cache
+C:\Projects\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\staticwebassets\DemoApp.StaticWebAssets.xml
+C:\Projects\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.dll
+C:\Projects\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.pdb
+C:\Projects\DemoApp\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.genruntimeconfig.cache
